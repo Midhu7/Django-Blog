@@ -1,6 +1,6 @@
 # Django-Blog
 
-This is the source code I wrote after watching the YouTube tutorial on Django by Net Ninja. </br>
+This is the project I made after watching the YouTube tutorial on Django by Net Ninja. </br>
 Reference: https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc
 
 ## What all I learned?
